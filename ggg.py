@@ -101,7 +101,7 @@ def supportingunelasticB2c():
             #ax1.set_xscale('log')
             #ax1.set_yscale('log',)
     # ax1.set_yscale('log',basey =2)
-            ax1.set_title('蠕变-疲劳损伤包络线(316/304)',fontsize=12)
+            ax1.set_title('蠕变-疲劳损伤包络线',fontsize=12)
             #ax1.set_xlabel('11',fontsize=12)
             #ax1.set_ylabel('22',fontsize=12)
     # ax1.set_xticks([10,10**2,10**3,10**4,10**5,3*10**5,],)
